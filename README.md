@@ -1,30 +1,60 @@
-<h1 align="center">Hi , I'm Subhan Tahir👋</h1>
-<h3 align="center">🎯 Front-end Development Expert 🎯 React Js Expert 🎯 JavaScript </h3>
-<p align="left">👷 Intermediate in Computer Science from Liaquat College<br />
-🔭 Front-end Developer<br />
-🌱 Tech Geek, always ready to learn new Technologies/Frameworks/Languages.<br />
-<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" height="250"/ >
-  <br />
-  <br /
-🎯 Fr >ontEnd Development Expert 🎯 React Js Expert 🎯  JavaScript 🎯 API Integrations.
-🌟 Trusted 2+ 𝐲𝐞𝐚𝐫𝐬 experience in Frontend Development.</p>
+Here’s a professional and attractive GitHub README to showcase your skills as a full-stack web and mobile developer with expertise in the MERN stack and React Native:
 
-<p>Hello, I am Subhan Tahir, A Frontend Developer using React Js as my core skill and now transitioning towards web development. I am doing Frontend Development from past 2 years. In this tenure I have developed various types of Websites using React Js having low to critical complexity level. my skills and tools are:</p>
+---
 
-⭐️ HTML5 ⭐️ CSS3 ⭐ ⭐️ Bootstrap ⭐️ JavaScript ⭐️ ES6 ⭐️ React JS  ⭐️ fetch API ⭐️ Custom Hooks development ⭐️ Axios
+# 👋 Hi, I'm Muhammad Usman
 
-I usually build:
+I'm a **Full Stack Web and Mobile Developer** with a strong focus on creating modern, scalable, and efficient applications. With expertise in **MERN Stack (MongoDB, Express, React, Node.js)** for web development and **React Native** for mobile app development, I build applications that deliver great user experiences across both platforms.
 
-Landing Pages, Portfolio websites, Business websites, Educational Websites, Blogs Websites, Marketing websites, Real Estate Websites, E-Commerce Websites, Matrimonial Websites, Dashboards, Graphs, Forms, and much more</p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman-088" alt="usman developer" /></a> </p>
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhan-tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhan-tahir" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on exciting projects that solve real-world problems using modern technologies.
+- 🌱 I’m constantly learning new tools and techniques to improve my craft and stay updated with the latest industry trends.
+- 👯 I’m open to collaborating on **open-source** projects or **freelance** opportunities.
+- ⚡ Fun fact: I'm passionate about turning ideas into reality through **code** and **creativity**!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usman-088&show_icons=true&locale=en&layout=compact" alt="usman developer" /></p>
+## 🛠️ My Tech Stack
+
+### 💻 Web Development:
+- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js
+- **Backend**: Node.js, Express.js, MongoDB, RESTful APIs
+- **Database**: MongoDB, MySQL, PostgreSQL
+- **Version Control**: Git, GitHub, GitLab
+
+### 📱 Mobile Development:
+- **React Native**: iOS & Android app development
+- **State Management**: Redux, Context API
+- **UI/UX**: Styled Components, Material UI, Tailwind CSS
+
+### 🛠️ Other Tools:
+- **Cloud**: AWS, Heroku, Firebase
+- **CI/CD**: GitHub Actions, Docker
+- **DevOps**: Docker, DigitalOcean
+
+---
+
+## 📈 GitHub Stats
+
+![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 💬 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Portfolio](https://your-portfolio.com)
+
+Feel free to reach out to discuss collaboration opportunities or if you'd just like to connect and share ideas!
+
+---
+
+**"Code is the bridge between ideas and reality."**
+
+---
+
+This README gives an overview of your skills while maintaining a clean and professional look. You can further personalize the details, such as GitHub username and portfolio links. Would you like any specific sections or designs added to this?
