@@ -1,7 +1,3 @@
-Here’s a professional and attractive GitHub README to showcase your skills as a full-stack web and mobile developer with expertise in the MERN stack and React Native:
-
----
-
 # 👋 Hi, I'm Muhammad Usman
 
 I'm a **Full Stack Web and Mobile Developer** with a strong focus on creating modern, scalable, and efficient applications. With expertise in **MERN Stack (MongoDB, Express, React, Node.js)** for web development and **React Native** for mobile app development, I build applications that deliver great user experiences across both platforms.
