@@ -39,8 +39,8 @@ I'm a **Full Stack Web and Mobile Developer** with a strong focus on creating mo
 
 ## 📈 GitHub Stats
 
-![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Muhammad Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman-088&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-088&layout=compact&theme=radical)
 
 ---
 
