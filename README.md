@@ -42,8 +42,8 @@ I'm a **Full Stack Web and Mobile Developer** with a strong focus on creating mo
 
 ## 💬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/musman088/)
 - 📧 Email: mu.usman.1481@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/musman088/)
 
 Feel free to reach out to discuss collaboration opportunities or if you'd just like to connect and share ideas!
 
