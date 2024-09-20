@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Usman
+# 👋 Hi, I'm Farzan Ashraf
 
 I'm a **Full Stack Web and Mobile Developer** with a strong focus on creating modern, scalable, and efficient applications. With expertise in **MERN Stack (MongoDB, Express, React, Node.js)** for web development and **React Native** for mobile app development, I build applications that deliver great user experiences across both platforms.
 
