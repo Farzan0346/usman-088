@@ -28,7 +28,7 @@ I'm a **Full Stack Web and Mobile Developer** with a strong focus on creating mo
 
 ### 🛠️ Other Tools:
 - **Cloud**: AWS, Heroku, Firebase
-- **CI/CD**: GitHub Actions, Docker
+- **CI/CD**: GitHub Actions
 - **DevOps**: Docker, DigitalOcean
 
 ---
