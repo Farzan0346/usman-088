@@ -50,7 +50,3 @@ Feel free to reach out to discuss collaboration opportunities or if you'd just l
 ---
 
 **"Code is the bridge between ideas and reality."**
-
----
-
-This README gives an overview of your skills while maintaining a clean and professional look. You can further personalize the details, such as GitHub username and portfolio links. Would you like any specific sections or designs added to this?
