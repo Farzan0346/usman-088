@@ -42,7 +42,7 @@ I'm a **Full Stack Web and Mobile Developer** with a strong focus on creating mo
 
 ## 💬 Let's Connect!
 
-- 📧 [Email](mu.usman.1481@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mu.usman.1481@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musman088/)
 
 
